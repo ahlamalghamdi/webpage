@@ -190,7 +190,12 @@ section.cards {
   text-align: center;
 }
 .folt{
-  width:10px
+  
+    width: 100%;
+  height: 35px;
+ margin-top:5px;
+padding-top: 2px;
+  padding-bottom:5px;
     
 }
 .data{
