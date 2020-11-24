@@ -172,7 +172,7 @@ section.cards {
     }
 .card {      
   display: block;
-  border-radius: 15px;
+  border-radius: 0px;
   background: white;
   box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
   font-family: roboto;
@@ -189,9 +189,9 @@ section.cards {
   transition: all 0.25s ease;
   text-align: center;
 }
-.imge{
-    border-top-right-radius: 15px;
-  border-top-left-radius: 15px;
+.folt{
+  width:10px
+    
 }
 .data{
     padding-right: 20px;
